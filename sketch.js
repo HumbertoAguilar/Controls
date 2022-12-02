@@ -2,7 +2,7 @@
 function setup(){
 
     homen=createButton('🏠︎')
-    homen.position(1220,20);
+    homen.position(1120,20);
     
 
 }
